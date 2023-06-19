@@ -124,7 +124,7 @@ export default (props: Props) => {
       <Show when={showCharge()}>
         <div class="mt-4">
           <Show when={!url()}>
-          <a href="https://appfront0220.s3.ap-southeast-1.amazonaws.com/qmzc/2023-02-23/WechatIMG35.jpeg">如充值未到账或有使用问题,请点击联系客服</a><br/>
+          <a href="https://img.quanminzc.com/qmzc/202306/1687139183629.jpeg">如充值未到账或有使用问题,请点击联系客服</a><br/>
             <span class="text-sm">
               请选择充值金额, GPT4按字数计费(注意!不是次数)
             </span>
